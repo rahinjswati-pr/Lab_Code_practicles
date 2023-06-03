@@ -1,0 +1,12 @@
+Record no:1
+ Employee no:1
+ Employee department:aa
+ salary:0.000000
+Record no:2
+ Employee no:2
+ Employee department:bb
+ salary:0.000000
+Record no:3
+ Employee no:3
+ Employee department:cc
+ salary:0.000000
