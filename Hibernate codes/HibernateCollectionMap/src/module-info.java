@@ -1,0 +1,2 @@
+module HibernateCollectionMap {
+}
